@@ -1,0 +1,15 @@
+{
+  "slices":
+  [
+    {
+      "doc_path": "spec/fixtures/ios_icons.sketch",
+      "name": "Icon-60",
+      "destination_path": "slice_1_destination"
+    },
+    {
+      "doc_path": "spec/fixtures/ios_icons.sketch",
+      "name": "Icon-60@2x",
+      "destination_path": "slice_2_destination"
+    }
+  ]
+}
